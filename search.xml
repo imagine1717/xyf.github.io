@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>书法学习</title>
+    <url>/2021/04/29/%E4%B9%A6%E6%B3%95%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用MorkDowan编写网页内容</title>
+    <url>/2021/04/29/%E4%BD%BF%E7%94%A8MorkDowan%E7%BC%96%E5%86%99%E7%BD%91%E9%A1%B5%E5%86%85%E5%AE%B9/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>生活安排</title>
+    <url>/2021/04/29/%E7%94%9F%E6%B4%BB%E5%AE%89%E6%8E%92/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>节日安排</title>
+    <url>/2021/04/29/%E8%8A%82%E6%97%A5%E5%AE%89%E6%8E%92/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何学习JS</title>
+    <url>/2021/04/29/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0JS/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>JS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何学习Java</title>
+    <url>/2021/04/29/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0Java/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>JAVA</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/04/28/hello-world/</url>
     <content><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
